@@ -1,0 +1,5 @@
+1. Verificar que la base de datos de mongo
+2. correr con npm install
+3. correr con npm start
+
+y ya XD
